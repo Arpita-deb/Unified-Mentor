@@ -9,8 +9,9 @@ This repository contains all the files associated with my Internship at Mentorne
 * Number of tasks: 2
 
 ## Task 1 : Market Capitalization Data Analysis
+In this project, I analysed the market competition for the management of 500 companies in India for Financial Year 2018 to provide better results and insights. I leveraged Alteryx to clean and create new matrices and using Power BI shared the results through various charts, and dashboard. The entire project documentation is available [here](https://github.com/Arpita-deb/Top_Indian_Firms_Market_Capitalization-Analysis_For_2018.git).
 
-I analyzed COVID-19 data using SQL and Power BI to gain insights into the pandemic's impact through dataset examination. Tasks included answering questions provided in the "Reference File for Corona data" using SQL queries. The entire project documentation is available [here](https://github.com/Arpita-deb/Corona-Virus-Analysis.git) and the video presentation [here](https://drive.google.com/file/d/168YmV5N0FQdJ4fFSavlFkxsYX7K1ynMo/view?usp=sharing).
 
 ## Task 2 : Budget Analysis
-In this project I analyzed NREGA data to evaluate its effectiveness, regional disparities, budget utilization, and factors affecting completion. The dataset includes various parameters like job cards, workforce, and expenditure. The entire project documentation is available [here](https://github.com/Arpita-deb/NREGA-Data-Analysis.git) and the video presentation [here](https://drive.google.com/file/d/1MZDiKtzJAkcqnJSkd79_cPWOqGrfUL0T/view?usp=sharing).
+I analyzed AdventureWorks’ yearly sales data to uncover revenue trends and patterns, product performance, and customer preferences by creating Data Cleaning, Transformation and Analysis Workflows in Alteryx and Data Visualizations in Power BI. Also performed RFM Analysis and Customer Segmentation based on customer’s income, geography, and demographics to identify potential and at-risk customers. Finally presented the findings through Data Visuals, Dashboards, and a concise Analysis Report.
+The entire project documentation is available [here](https://github.com/Arpita-deb/AdventureWorks-Sales-Performance-Analysis-2014-2016.git).
